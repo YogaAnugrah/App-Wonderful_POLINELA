@@ -1,0 +1,64 @@
+<resources>
+    <!--    app name-->
+    <string name="app_name">Wonderfull POLINELA</string>
+
+    <!--    Desk POLINELA-->
+    <string name="desk_polinela">Politeknik Negeri Lampung pada awalnya dikenal dengan nama
+        Politeknik Pertanian Negeri Lampung dan resmi menyelenggarakan pendidikan tinggi secara mandiri
+        dan menjadi salah satu bentuk Perguruan Tinggi Negeri (PTN) di Provinsi Lampung
+        sejak tanggal 7 April 2001, berdasarkan SK. Mendiknas RI No. 036/O/2001.</string>
+    <string name="desk_polinela2">Politeknik Negeri Lampung pada awalnya dikenal dengan nama Politeknik Pertanian Negeri Lampung
+        dan resmi menyelenggarakan pendidikan tinggi secara mandiri dan menjadi salah satu bentuk
+        Perguruan Tinggi Negeri (PTN) di Provinsi Lampung sejak tanggal 7 April 2001, berdasarkan SK. Mendiknas RI No. 036/O/2001.
+        Politeknik Negeri Lampung diamanatkan untuk melaksanakan Pendidikan Vokasi,
+        yaitu pendidikan tinggi yang mempersiapkan peserta didik untuk memiliki pekerjaan dan profesionalitas
+        dengan keahlian terapan tertentu maksimal setara dengan program sarjana.
+        Oleh karena itu pendidikan di Politeknik Negeri Lampung lebih diarahkan kepada pembelajaran
+        yang professional dengan dukungan tenaga pengajar (dosen), teknisi, tenaga administrasi
+        dan fasilitas pendukung proses belajar mengajar yang menunjang sistem pembelajaran tersebut.</string>
+
+    <!--    NAMA PRODI-->
+    <!--    Jurusan Pangan-->
+    <string name="pangan1">D2 Teknik Produksi Tanaman Organik</string>
+    <string name="pangan2">D3 Produksi Tanaman Pangan</string>
+    <string name="pangan3">D3 Hortikultura</string>
+    <string name="pangan4">D4 Teknologi Perbenihan</string>
+    <string name="pangan5">D4 Teknologi Produksi Tanaman Hortikultura</string>
+    <!--    Jurusan Kebun-->
+    <string name="kebun1">D3 Produksi Tanaman Perkebunan</string>
+    <string name="kebun2">D4 Produksi Dan Manajemen Industri Perkebunan</string>
+    <string name="kebun3">D4 Pengelolaan Perkebunan Kopi</string>
+    <!--    Jurusan Tektan-->
+    <string name="tektan1">D2 Pengelolaan Patiseri</string>
+    <string name="tektan2">D3 Teknik Sumberdaya Lahan Dan Lingkungan</string>
+    <string name="tektan3">D3 Mekanisasi Pertanian</string>
+    <string name="tektan4">D3 Teknologi Pangan</string>
+    <string name="tektan5">D4 Teknologi Rekayasa Kimia Industri</string>
+    <string name="tektan6">D4 Teknologi Rekayasa Kontruksi Jalan Dan Jembatan</string>
+    <string name="tektan7">D4 Pengembangan Produk Agroindustri</string>
+    <!--    Jurusan Ternak-->
+    <string name="ternak1">D3 Produksi Ternak</string>
+    <string name="ternak2">D3 Budidaya Perikanan</string>
+    <string name="ternak3">D3 Perikanan Tangkap</string>
+    <string name="ternak4">D4 Teknologi Produksi Ternak</string>
+    <string name="ternak5">D4 Teknologi Pembenihan Ikan</string>
+    <!--    Jurusan Ekbis-->
+    <string name="ekbis1">D2 Administrasi Perpajakan</string>
+    <string name="ekbis2">D3 Manajemen Informatika</string>
+    <string name="ekbis3">D3 Perjalanan Wisata</string>
+    <string name="ekbis4">D4 Agribisnis Pangan</string>
+    <string name="ekbis5">D4 Pengelolaan Agribisnis</string>
+    <string name="ekbis6">D4 Akuntansi Perpajakan</string>
+    <string name="ekbis7">D4 Akuntansi Bisnis Digital</string>
+    <string name="ekbis8">D4 Pengelolaan Perhotelan</string>
+    <string name="ekbis9">D4 Teknologi Rekayasa Internet</string>
+
+    <!--Tentang Apps-->
+    <string name="tentang">Wonderfull POLINELA adalah Aplikasi Informasi
+    yang menjelaskan Politeknik Negeri Lampung Secara Singkat. Aplikasi ini ditujukan Untuk Siswa/i
+    SLTA-Sederajat yang ingin mengetahui Tentang POLINELA. Pada Aplikasi ini disajikan Jurusan yang ada di POLINELA,
+    Terdapat 5 Jurusan dan 1 Program Pascasarjana dengan Total Progam Studi sebanyak 29 Prodi Dengan Jenjang D2, D3, Dan D4, Serta Magister Terapan.
+    Dalam Aplikasi ini terdapat Informasi mengenai Visi dan Misi dari masing-masing Jurusan dan tiap Program Studi.
+    Dilengkapi juga dengan Fitur Informasi yang dapat diakses oleh Pengguna Aplikasi ini.</string>
+
+</resources>
