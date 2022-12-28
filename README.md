@@ -10,3 +10,7 @@ Pembuatan Aplikasi ini untuk menyelesaikan Tugas Ujian Akhir Praktikum mata kuli
 1. Yoga Anugrah (20753073)
 2. Yuliana Asmaul Q (20753080)
 Didalam Aplikasi berbasis Mobile ini dibangun menggunakan bahasa pemrograman Java
+
+
+
+selesai dan sudah dinilai :heavy_check_mark:
